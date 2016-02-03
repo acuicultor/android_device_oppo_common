@@ -16,6 +16,11 @@
 
 package com.cyanogenmod.settings.device;
 
+
+import com.android.internal.util.cm.ScreenType;
+
+import com.cyanogenmod.settings.device.utils.NodePreferenceActivity;
+
 import android.os.Bundle;
 import android.preference.Preference;
 import android.preference.SwitchPreference;
