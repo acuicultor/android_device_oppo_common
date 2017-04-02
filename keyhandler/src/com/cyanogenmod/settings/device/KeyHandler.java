@@ -40,6 +40,8 @@ import android.util.Log;
 import android.util.SparseIntArray;
 import android.view.KeyEvent;
 
+import cyanogenmod.providers.CMSettings;
+
 import com.android.internal.os.DeviceKeyHandler;
 import com.android.internal.util.ArrayUtils;
 
