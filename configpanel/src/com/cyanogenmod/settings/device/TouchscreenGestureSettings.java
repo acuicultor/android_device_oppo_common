@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2015-2016 The CyanogenMod Project
+ * Copyright (C) 2015 The CyanogenMod Project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -16,20 +16,12 @@
 
 package com.cyanogenmod.settings.device;
 
-
-import com.android.internal.util.cm.ScreenType;
-
 import com.cyanogenmod.settings.device.utils.NodePreferenceActivity;
 
 import android.os.Bundle;
+import android.provider.Settings;
 import android.preference.Preference;
 import android.preference.SwitchPreference;
-
-import com.cyanogenmod.settings.device.utils.NodePreferenceActivity;
-
-import cyanogenmod.providers.CMSettings;
-
-import org.cyanogenmod.internal.util.ScreenType;
 
 public class TouchscreenGestureSettings extends NodePreferenceActivity {
     private static final String KEY_HAPTIC_FEEDBACK = "touchscreen_gesture_haptic_feedback";
@@ -50,8 +42,7 @@ public class TouchscreenGestureSettings extends NodePreferenceActivity {
         final String key = preference.getKey();
         if (KEY_HAPTIC_FEEDBACK.equals(key)) {
             final boolean value = (Boolean) newValue;
-            CMSettings.System.putInt(getContentResolver(),
-                    CMSettings.System.TOUCHSCREEN_GESTURE_HAPTIC_FEEDBACK, value ? 1 : 0);
+            Settings.System.putInt(getContentResolver(), KEY_HAPTIC_FEEDBACK, value ? 1 : 0);
             return true;
         }
 
@@ -62,12 +53,10 @@ public class TouchscreenGestureSettings extends NodePreferenceActivity {
     protected void onResume() {
         super.onResume();
 
-        // If running on a phone, remove padding around the listview
-        if (!ScreenType.isTablet(this)) {
-            getListView().setPadding(0, 0, 0, 0);
-        }
+        // Remove padding around the listview from all devices
+        getListView().setPadding(0, 0, 0, 0);
 
-        mHapticFeedback.setChecked(CMSettings.System.getInt(getContentResolver(),
-                CMSettings.System.TOUCHSCREEN_GESTURE_HAPTIC_FEEDBACK, 1) != 0);
+        mHapticFeedback.setChecked(
+                Settings.System.getInt(getContentResolver(), KEY_HAPTIC_FEEDBACK, 1) != 0);
     }
 }

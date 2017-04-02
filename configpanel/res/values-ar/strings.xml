@@ -23,6 +23,12 @@
   <string name="touchpad_long_press_summary">الضغط لمدة طويلة على لوحة اللمس سيؤدي إلى تشغيل تطبيق الكاميرا</string>
   <string name="touchpad_double_tap_title">انقر مرتين للإلتقاط</string>
   <string name="touchpad_double_tap_summary">عند التواجد في وضع الكاميرا، انقر مرتين لألتقاط الصورة</string>
+  <!-- Gesture shortcuts -->
+  <string name="touchscreen_camera_gesture_title">الكاميرا</string>
+  <string name="touchscreen_camera_gesture_summary">رسم دائرة لتنشيط الكاميرا</string>
+  <string name="touchscreen_music_gesture_title">موسيقى</string>
+  <string name="touchscreen_flashlight_gesture_title">كشاف</string>
+  <string name="touchscreen_flashlight_gesture_summary">رسم \'V\' للتبديل بين الكشاف</string>
   <!-- O-Click settings -->
   <string name="oclick_connect_string">الاتصال</string>
   <string name="oclick_disconnect_string">فصل</string>
@@ -45,6 +51,10 @@
   <string name="oclick_notification_title_connected">O-Click متصل</string>
   <string name="oclick_notification_title_disconnected">O-Click غير متصل</string>
   <string name="oclick_notification_content_disconnected">اضغط على زر O-Click لإعادة الاتصال</string>
+  <!-- Button settings -->
+  <string name="button_panel_title">أزرار إضافية</string>
+  <string name="button_swap_title">تبديل الأزرار</string>
+  <string name="button_swap_summary">تبديل ترتيب أزرار حديث ورجوع</string>
   <!-- Notification slider -->
   <string name="notification_slider_category_title">أداة تمرار الإشعارات</string>
   <string name="notification_slider_selection_dialog_title">إجراء</string>

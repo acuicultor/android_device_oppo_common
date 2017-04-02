@@ -23,6 +23,12 @@
   <string name="touchpad_long_press_summary">Дуг притисак на touchpad ће покренути апликацију камере</string>
   <string name="touchpad_double_tap_title">Дупли додир да ухватиш</string>
   <string name="touchpad_double_tap_summary">Док си у камери, два пута додирни да снимиш слику</string>
+  <!-- Gesture shortcuts -->
+  <string name="touchscreen_camera_gesture_title">Камера</string>
+  <string name="touchscreen_camera_gesture_summary">Нацртај круг да би активирао камеру</string>
+  <string name="touchscreen_music_gesture_title">Музика</string>
+  <string name="touchscreen_flashlight_gesture_title">Лампа</string>
+  <string name="touchscreen_flashlight_gesture_summary">Нацртај \'V\' да покренеш лампу</string>
   <!-- O-Click settings -->
   <string name="oclick_connect_string">Повежи</string>
   <string name="oclick_disconnect_string">Прекини везу</string>
@@ -45,6 +51,10 @@
   <string name="oclick_notification_title_connected">O-Click конектован</string>
   <string name="oclick_notification_title_disconnected">O-Click дисконектован</string>
   <string name="oclick_notification_content_disconnected">Додирни O-Click дугме да се поново повежеш</string>
+  <!-- Button settings -->
+  <string name="button_panel_title">Додатна дугмад</string>
+  <string name="button_swap_title">Замени дугмад</string>
+  <string name="button_swap_summary">Замени редослед за скоро и назад</string>
   <!-- Notification slider -->
   <string name="notification_slider_category_title">Клизач за обавештења</string>
   <string name="notification_slider_selection_dialog_title">Радња</string>

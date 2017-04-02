@@ -23,6 +23,12 @@
   <string name="touchpad_long_press_summary">Dlouhým dotykem na touchpad spustíte aplikaci fotoaparátu</string>
   <string name="touchpad_double_tap_title">Dvojdotyk k vyfocení</string>
   <string name="touchpad_double_tap_summary">Pokud je aktivní fotoaparát, dvojitým dotykem pořídíte forografii</string>
+  <!-- Gesture shortcuts -->
+  <string name="touchscreen_camera_gesture_title">Fotoaparát</string>
+  <string name="touchscreen_camera_gesture_summary">Namalováním kruhu spustíte fotoaparát</string>
+  <string name="touchscreen_music_gesture_title">Hudba</string>
+  <string name="touchscreen_flashlight_gesture_title">Svítilna</string>
+  <string name="touchscreen_flashlight_gesture_summary">Namalováním písmene „V“ přepnete stav svítilny</string>
   <!-- O-Click settings -->
   <string name="oclick_connect_string">Připojit</string>
   <string name="oclick_disconnect_string">Odpojit</string>
@@ -45,6 +51,10 @@
   <string name="oclick_notification_title_connected">O-Click připojen</string>
   <string name="oclick_notification_title_disconnected">O-Click odpojen</string>
   <string name="oclick_notification_content_disconnected">Tlačítkem O-Click znovu připojit</string>
+  <!-- Button settings -->
+  <string name="button_panel_title">Další tlačítka</string>
+  <string name="button_swap_title">Prohodit tlačítka</string>
+  <string name="button_swap_summary">Prohodit pořadí tlačítek „Nedávné“ a „Zpět“</string>
   <!-- Notification slider -->
   <string name="notification_slider_category_title">Posuvník u oznámení</string>
   <string name="notification_slider_selection_dialog_title">Akce</string>

@@ -23,6 +23,12 @@
   <string name="touchpad_long_press_summary">Παρατεταμένη πίεση στην επιφάνεια αφής θα ανοίγει την φωτογρ. μηχανή</string>
   <string name="touchpad_double_tap_title">Διπλό χτύπημα για λήψη</string>
   <string name="touchpad_double_tap_summary">Ενώ είστε στην κάμερα, χτυπήστε ελαφρά δύο φορές για λήψη φωτογραφίας</string>
+  <!-- Gesture shortcuts -->
+  <string name="touchscreen_camera_gesture_title">Φωτογρ. μηχανή</string>
+  <string name="touchscreen_camera_gesture_summary">Σχεδιάστε έναν κύκλο για εκκίνηση της φωτογρ. μηχανής</string>
+  <string name="touchscreen_music_gesture_title">Μουσική</string>
+  <string name="touchscreen_flashlight_gesture_title">Φακός</string>
+  <string name="touchscreen_flashlight_gesture_summary">Σχεδιάστε ένα \'V\' για ενεργοποίηση του φακού</string>
   <!-- O-Click settings -->
   <string name="oclick_connect_string">Σύνδεση</string>
   <string name="oclick_disconnect_string">Αποσύνδεση</string>
@@ -45,6 +51,10 @@
   <string name="oclick_notification_title_connected">Το O-Click συνδέθηκε</string>
   <string name="oclick_notification_title_disconnected">Το O-Click αποσυνδέθηκε</string>
   <string name="oclick_notification_content_disconnected">Πιέστε το πλήκτρο O-Click για επανασύνδεση</string>
+  <!-- Button settings -->
+  <string name="button_panel_title">Πρόσθετα πλήκτρα</string>
+  <string name="button_swap_title">Εναλλαγή πλήκτρων</string>
+  <string name="button_swap_summary">Εναλλαγή της διάταξης των πλήκτρων προσφάτων και πίσω</string>
   <!-- Notification slider -->
   <string name="notification_slider_category_title">Ρυθμιστικό ειδοποιήσεων</string>
   <string name="notification_slider_selection_dialog_title">Ενέργεια</string>

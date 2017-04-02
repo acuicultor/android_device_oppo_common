@@ -23,6 +23,12 @@
   <string name="touchpad_long_press_summary">لمس طولانی روی پد لمسی باعث اجرای دوربین می‌شود</string>
   <string name="touchpad_double_tap_title">دوبار ضربه برای عکس برداری</string>
   <string name="touchpad_double_tap_summary">هنگام استفاده از دوربین، با دوبار ضربه عکس بگیرید</string>
+  <!-- Gesture shortcuts -->
+  <string name="touchscreen_camera_gesture_title">دوربین</string>
+  <string name="touchscreen_camera_gesture_summary">یک دایره بکشید تا دوربین فعال شود</string>
+  <string name="touchscreen_music_gesture_title">موسیقی</string>
+  <string name="touchscreen_flashlight_gesture_title">چراغ‌قوه</string>
+  <string name="touchscreen_flashlight_gesture_summary">حرف \'V\' را رسم کنید تا چراغ‌قوه فعال شود</string>
   <!-- O-Click settings -->
   <string name="oclick_connect_string">اتصال</string>
   <string name="oclick_disconnect_string">قطع ارتباط</string>
@@ -45,5 +51,6 @@
   <string name="oclick_notification_title_connected">O-Click متصل شد</string>
   <string name="oclick_notification_title_disconnected">اتصال O-Click قطع شد</string>
   <string name="oclick_notification_content_disconnected">کلید O-Click را برای اتصال مجدد بزنید</string>
+  <!-- Button settings -->
   <!-- Notification slider -->
 </resources>

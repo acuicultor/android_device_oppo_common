@@ -23,6 +23,12 @@
   <string name="touchpad_long_press_summary">Tekan agak lama pada pad sentuh untuk meluncurkan aplikasi Kamera</string>
   <string name="touchpad_double_tap_title">Ketuk dua kali untuk menangkap gambar</string>
   <string name="touchpad_double_tap_summary">Ketika di dalam Kamera, ketuk dua kali untuk menangkap gambar</string>
+  <!-- Gesture shortcuts -->
+  <string name="touchscreen_camera_gesture_title">Kamera</string>
+  <string name="touchscreen_camera_gesture_summary">Gambar lingkaran untuk menghidupkan Kamera</string>
+  <string name="touchscreen_music_gesture_title">Musik</string>
+  <string name="touchscreen_flashlight_gesture_title">Senter</string>
+  <string name="touchscreen_flashlight_gesture_summary">Gambar \'V\' untuk hidup/matikan senter</string>
   <!-- O-Click settings -->
   <string name="oclick_connect_string">Hubungkan</string>
   <string name="oclick_disconnect_string">Putuskan</string>
@@ -45,6 +51,10 @@
   <string name="oclick_notification_title_connected">O-Click terhubung</string>
   <string name="oclick_notification_title_disconnected">O-Click terputus</string>
   <string name="oclick_notification_content_disconnected">Tekan tombol O-Click untuk menyambung kembali</string>
+  <!-- Button settings -->
+  <string name="button_panel_title">Tombol tambahan</string>
+  <string name="button_swap_title">Tombol tukar</string>
+  <string name="button_swap_summary">Tukar urutan tombol terbaru dan kembali</string>
   <!-- Notification slider -->
   <string name="notification_slider_category_title">Penggeser pemberitahuan</string>
   <string name="notification_slider_selection_dialog_title">Tindakan</string>

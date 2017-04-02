@@ -23,6 +23,12 @@
   <string name="touchpad_long_press_summary">Langt tryk på O-Touch vil aktivere kameraet</string>
   <string name="touchpad_double_tap_title">Dobbelttryk for at tage billede</string>
   <string name="touchpad_double_tap_summary">Dobbelttryk for at tage et billede, når kameraet er åbent</string>
+  <!-- Gesture shortcuts -->
+  <string name="touchscreen_camera_gesture_title">Kamera</string>
+  <string name="touchscreen_camera_gesture_summary">Tegn en cirkel for at aktivere kamera</string>
+  <string name="touchscreen_music_gesture_title">Musik</string>
+  <string name="touchscreen_flashlight_gesture_title">Lommelygte</string>
+  <string name="touchscreen_flashlight_gesture_summary">Tegn et \'V\' for at tænde lommelygten</string>
   <!-- O-Click settings -->
   <string name="oclick_connect_string">Forbind</string>
   <string name="oclick_disconnect_string">Afbryd</string>
@@ -45,6 +51,10 @@
   <string name="oclick_notification_title_connected">O-Click forbundet</string>
   <string name="oclick_notification_title_disconnected">O-Click afbrudt</string>
   <string name="oclick_notification_content_disconnected">Tryk på O-Click for at genoprette forbindelsen</string>
+  <!-- Button settings -->
+  <string name="button_panel_title">Yderligere knapper</string>
+  <string name="button_swap_title">Ombyt knapper</string>
+  <string name="button_swap_summary">Byt om på rækkefølgen af knapperne seneste og tilbage</string>
   <!-- Notification slider -->
   <string name="notification_slider_category_title">Meddelelsesskyder</string>
   <string name="notification_slider_selection_dialog_title">Handling</string>

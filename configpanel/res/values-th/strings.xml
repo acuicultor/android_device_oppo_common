@@ -23,6 +23,12 @@
   <string name="touchpad_long_press_summary">กดค้างที่แป้นสัมผัสเพื่อเปิดใช้งานกล้อง</string>
   <string name="touchpad_double_tap_title">แตะสองครั้งเพื่อจับภาพ</string>
   <string name="touchpad_double_tap_summary">ขณะเปิดใช้กล้องอยู่ แตะสองครั้งเพื่อจับภาพ</string>
+  <!-- Gesture shortcuts -->
+  <string name="touchscreen_camera_gesture_title">กล้อง</string>
+  <string name="touchscreen_camera_gesture_summary">วาดวงกลมเพื่อเปิดกล้อง</string>
+  <string name="touchscreen_music_gesture_title">เพลง</string>
+  <string name="touchscreen_flashlight_gesture_title">ไฟฉาย</string>
+  <string name="touchscreen_flashlight_gesture_summary">วาด \'V\' เพื่อเปิดไฟฉาย</string>
   <!-- O-Click settings -->
   <string name="oclick_connect_string">เชื่อมต่อ</string>
   <string name="oclick_disconnect_string">ตัดการเชื่อมต่อ</string>
@@ -45,6 +51,10 @@
   <string name="oclick_notification_title_connected">เชื่อมต่อ O-Click แล้ว</string>
   <string name="oclick_notification_title_disconnected">หยุดเชื่อมต่อ O-Click แล้ว</string>
   <string name="oclick_notification_content_disconnected">กดปุ่ม O-click เพื่อเชื่อมต่ออีกครั้ง</string>
+  <!-- Button settings -->
+  <string name="button_panel_title">ปุ่มเพิ่มเติม</string>
+  <string name="button_swap_title">สลับปุ่ม</string>
+  <string name="button_swap_summary">สลับตำแหน่งของปุ่มล่าสุดและปุ่มย้อนกลับ</string>
   <!-- Notification slider -->
   <string name="notification_slider_category_title">ตัวเลื่อนการแจ้งเตือน</string>
   <string name="notification_slider_selection_dialog_title">การทำงาน</string>

@@ -23,6 +23,12 @@
   <string name="touchpad_long_press_summary">Długie przytrzymanie touchpada uruchomi aplikację aparatu</string>
   <string name="touchpad_double_tap_title">Podwójne kliknięcie by uchwycić</string>
   <string name="touchpad_double_tap_summary">Gdy w aparacie, podwójne kliknięcie zrobi zdjęcie</string>
+  <!-- Gesture shortcuts -->
+  <string name="touchscreen_camera_gesture_title">Aparat</string>
+  <string name="touchscreen_camera_gesture_summary">Narysuj koło, aby włączyć aparat</string>
+  <string name="touchscreen_music_gesture_title">Muzyka</string>
+  <string name="touchscreen_flashlight_gesture_title">Latarka</string>
+  <string name="touchscreen_flashlight_gesture_summary">Narysuj \'V\', aby włączyć latarkę</string>
   <!-- O-Click settings -->
   <string name="oclick_connect_string">Połącz</string>
   <string name="oclick_disconnect_string">Rozłącz</string>
@@ -45,6 +51,10 @@
   <string name="oclick_notification_title_connected">O-Click połączony</string>
   <string name="oclick_notification_title_disconnected">O-Click niepołączony</string>
   <string name="oclick_notification_content_disconnected">Naciśnij przycisk O-Click, aby połączyć ponownie</string>
+  <!-- Button settings -->
+  <string name="button_panel_title">Dodatkowe przyciski</string>
+  <string name="button_swap_title">Zamień przyciski</string>
+  <string name="button_swap_summary">Zamień miejscami przyciski ostatnio uruchomionych aplikacji i powrotu</string>
   <!-- Notification slider -->
   <string name="notification_slider_category_title">Panel powiadomień</string>
   <string name="notification_slider_selection_dialog_title">Akcja</string>

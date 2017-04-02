@@ -23,6 +23,12 @@
   <string name="touchpad_long_press_summary">Dokunmatik yüzeye uzun dokunuş kamera uygulamasını açar</string>
   <string name="touchpad_double_tap_title">Çekmek için çift dokunun</string>
   <string name="touchpad_double_tap_summary">Kameradayken resim çekmek için çift dokunun</string>
+  <!-- Gesture shortcuts -->
+  <string name="touchscreen_camera_gesture_title">Kamera</string>
+  <string name="touchscreen_camera_gesture_summary">Kamerayı etkinleştirmek için daire çizin</string>
+  <string name="touchscreen_music_gesture_title">Müzik</string>
+  <string name="touchscreen_flashlight_gesture_title">El feneri</string>
+  <string name="touchscreen_flashlight_gesture_summary">Flaş ışığını açıp kapatmak için \'V\' çizin</string>
   <!-- O-Click settings -->
   <string name="oclick_connect_string">Bağlan</string>
   <string name="oclick_disconnect_string">Bağlantıyı Kes</string>
@@ -45,6 +51,10 @@
   <string name="oclick_notification_title_connected">O-Click bağlandı</string>
   <string name="oclick_notification_title_disconnected">O-Click bağlantısı kesildi</string>
   <string name="oclick_notification_content_disconnected">Tekrar bağlanmak için O-Click tuşuna basın</string>
+  <!-- Button settings -->
+  <string name="button_panel_title">Ek düğmeler</string>
+  <string name="button_swap_title">Düğmeleri değiştir</string>
+  <string name="button_swap_summary">Son uygulamalar ve geri düğmesinin sırasını değiştir</string>
   <!-- Notification slider -->
   <string name="notification_slider_category_title">Bildirim sürgüsü</string>
   <string name="notification_slider_selection_dialog_title">Eylem</string>
